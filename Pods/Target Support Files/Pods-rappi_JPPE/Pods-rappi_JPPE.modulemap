@@ -1,0 +1,6 @@
+framework module Pods_rappi_JPPE {
+  umbrella header "Pods-rappi_JPPE-umbrella.h"
+
+  export *
+  module * { export * }
+}
